@@ -1,0 +1,27 @@
+_repo: The-Sword-of-Gideon_52979
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bloundelle-Burton, John
+    alias: Bloundelle-Burton, J. (John)
+    birthdate: 1850
+    deathdate: 1917
+    gutenberg_agent_id: '36515'
+    url: http://www.gutenberg.org/2009/agents/36515
+description: ''
+gutenberg_issued: '2016-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52979'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Spanish Succession, War of, 1701-1714 -- Fiction'
+- !lcsh 'Rescues -- Fiction'
+- !lcsh 'Adventure stories'
+- GITenberg
+title: The Sword of Gideon
+url: http://www.gutenberg.org/ebooks/52979
